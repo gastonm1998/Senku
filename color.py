@@ -1,0 +1,10 @@
+class Color:
+    HEADER = '\033[95m'
+    AZUL = '\033[94m'
+    CIAN = '\033[96m'
+    VERDE = '\033[92m'
+    ADVERTENCIA = '\033[93m'
+    ERROR = '\033[91m'
+    FIN = '\033[0m'
+    NEGRITA = '\033[1m'
+    SUBRAYADO = '\033[4m'
